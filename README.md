@@ -11,6 +11,7 @@ The final output clearly separates **Feasible** and **Infeasible** shipments.
 ---
 
 ## ⚠️ Code Availability
+
 **The full pipeline code is not publicly available in this repository.**  
 This repository contains only documentation, sample results, and images. The actual implementation (Python scripts, runner, etc.) is kept in a private repository.
 
