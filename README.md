@@ -102,7 +102,7 @@ The runner clears memory after every step and shows clear error messages if some
 
 ---
 
-## Technologies
+## Libraries
 
 - Python 3
 - Pandas & NumPy
