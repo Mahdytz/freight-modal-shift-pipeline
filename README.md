@@ -10,6 +10,19 @@ The final output clearly separates **Feasible** and **Infeasible** shipments.
 
 ---
 
+## ⚠️ Code Availability
+
+**The full pipeline code is not publicly available in this repository.**  
+This repository contains only documentation, sample results, and images. The actual implementation (Python scripts, runner, etc.) is kept in a private repository.
+
+If you need access to the code for evaluation, collaboration, or adaptation, please contact me via email:
+
+📧 **mahditaghizade.tz@gmail.com**
+
+I’ll be happy to discuss access on a case-by-case basis.
+
+---
+
 ## The Core Idea
 
 ![Multimodal Journey](pics/multimodal-journey.png)
